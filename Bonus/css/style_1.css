@@ -23,20 +23,12 @@
         font-size: smaller;
 }
 
-#img1  {
-        margin-left: 18%;
-        height: 300px;
-        width: 500px;
-}
-
-#img2  {
+.img  {
         height: 300px;
         width: 500px;
 }
 
 .phtext  {
-        margin-left: 18%;
-        margin-right: 18%;
          font-size: 10px;
 }
 
