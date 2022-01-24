@@ -7,27 +7,36 @@
 }
 
 #imglogo  {
-    width: 150px;
-    margin-top: 55px;
-    margin-left: 5px;
+        width: 150px;
+        margin-top: 55px;
+         margin-left: 5px;
 }
 
 #textmin1  {
-    color: grey;
-    font-size: medium;
+        color: grey;
+        font-size: medium;
 }
 
 #textmin2  {
-    color: grey;
-    font-size: smaller;
+        color: grey;
+        font-size: smaller;
 }
 
-.img  {
-    height: 250px;
+#img1  {
+        margin-left: 18%;
+        height: 300px;
+        width: 500px;
+}
+
+#img2  {
+        height: 300px;
+        width: 500px;
 }
 
 .phtext  {
-    font-size: 10px;
+        margin-left: 18%;
+        margin-right: 18%;
+         font-size: 10px;
 }
 
 #textformat  {
