@@ -1,0 +1,12 @@
+#logo  {
+    background-color: rgb(60, 194, 238);
+    background-image: url("img/pattern.png");
+    background-repeat: repeat-x;
+    height: 150px;
+}
+
+#imglogo  {
+    background-position: left, bottom;    
+    width: 150px;
+}
+
