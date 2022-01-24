@@ -1,6 +1,7 @@
 #logo  {
     background-color: rgb(60, 194, 238);
     background-image: url("../img/pattern.png");
+    background-attachment: fixed;
     background-repeat: repeat-x;
     height: 100px;
 
