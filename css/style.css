@@ -50,4 +50,31 @@ font-size: smaller;
     background-color: rgb(112, 206, 238);
 }
 
+#greytext  {
+    font-size:  18px;
+    color: grey;
+}
+
+#link1  {
+    margin-top: 5px;
+    font-size:  20px;
+    width: 200px;
+    height: 150px;
+    background-image: url("../img/monitor.jpg");
+    color: rgb(255, 255, 255);
+}
+
+#link2 {
+    text-align: right, 2px;
+    margin-top: 5px;
+    border: 10px;
+    font-size:  20px;
+    width: 200px;
+    height: 150px;
+    background-image: url("../img/graph.jpg");
+    color: rgb(255, 255, 255);
+}
+
+
+
 
