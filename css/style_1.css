@@ -1,0 +1,87 @@
+#logo  {
+    background-color: rgb(60, 194, 238);
+    background-image: url("../img/pattern.png");
+    background-repeat: repeat-x;
+    height: 100px;
+
+}
+
+#imglogo  {
+    width: 150px;
+    margin-top: 55px;
+    margin-left: 5px;
+}
+
+#textmin1  {
+    color: grey;
+    font-size: medium;
+}
+
+#textmin2  {
+    color: grey;
+    font-size: smaller;
+}
+
+.img  {
+    height: 250px;
+}
+
+.phtext  {
+    font-size: 10px;
+}
+
+#textformat  {
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        margin-left: 18%;
+        margin-right: 18%;
+        width: 1200px;
+        height: 800px;
+    
+}
+
+
+.underline  {
+        background-color: yellow;
+}
+
+#table  {
+        table-layout: fixed;
+         width: 100%;
+}
+
+#tablecl1  {
+        background-color: dodgerblue;
+}
+
+.tablecl2  {
+        background-color: rgb(112, 206, 238);
+}
+
+#greytext  {
+        font-size:  18px;
+         color: grey;
+}
+
+#link1  {
+        margin-top: 5px;
+        font-size:  20px;
+        width: 200px;
+        height: 150px;
+        background-image: url("../img/monitor.jpg");
+        color: rgb(255, 255, 255);
+}
+
+#link2 {
+        text-align: right, 2px;
+        margin-top: 5px;
+        border: 10px;
+        font-size:  20px;
+         width: 200px;
+         height: 150px;
+         background-image: url("../img/graph.jpg");
+         color: rgb(255, 255, 255);
+}
+
+
+
+
