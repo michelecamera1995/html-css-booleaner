@@ -1,12 +1,53 @@
 #logo  {
     background-color: rgb(60, 194, 238);
-    background-image: url("img/pattern.png");
+    background-image: url("../img/pattern.png");
     background-repeat: repeat-x;
-    height: 150px;
+    height: 100px;
+    
 }
 
 #imglogo  {
-    background-position: left, bottom;    
     width: 150px;
+    margin-top: 55px;
+    margin-left: 5px;
 }
+
+#textmin1  {
+  font-size: medium;
+}
+
+#textmin2  {
+font-size: smaller;
+}
+
+.img  {
+    height: 250px;
+}
+
+#phtext  {
+        font-size: 10px;
+ }
+
+ #textformat  {
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-weight: bold;
+}
+
+ #underline  {
+            background-color: yellow;
+}
+
+#table  {
+            table-layout: fixed;
+            width: 600px;
+ }
+
+#tablecl1  {
+            background-color: dodgerblue;
+}
+
+#tablecl2  {
+    background-color: rgb(112, 206, 238);
+}
+
 
