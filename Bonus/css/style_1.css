@@ -48,7 +48,8 @@
 
 #table  {
         table-layout: fixed;
-         width: 100%;
+        width: 50%;
+        border-spacing: 0px; width: 100%;
 }
 
 #tablecl1  {
