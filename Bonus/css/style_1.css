@@ -13,6 +13,12 @@
          margin-left: 5px;
 }
 
+#link  {
+        color: #42b6e9;
+        text-decoration: none;
+        font-size: medium;
+}
+
 #textmin1  {
         color: grey;
         font-size: medium;
