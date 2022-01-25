@@ -34,10 +34,8 @@
 
 #textformat  {
         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        margin-left: 18%;
-        margin-right: 18%;
+        margin: auto;
         width: 1200px;
-        height: 800px;
     
 }
 
